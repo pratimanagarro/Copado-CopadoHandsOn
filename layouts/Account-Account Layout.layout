@@ -27,6 +27,10 @@
                 <behavior>Edit</behavior>
                 <field>PratimaCopado__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PratimaDev2__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

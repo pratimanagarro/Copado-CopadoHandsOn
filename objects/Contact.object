@@ -438,6 +438,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>PhoneN__c</fullName>
+        <externalId>false</externalId>
+        <label>PhoneN</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>ReportsToId</fullName>
         <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>

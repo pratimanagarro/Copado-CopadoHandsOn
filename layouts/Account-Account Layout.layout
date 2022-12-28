@@ -47,6 +47,10 @@
                 <behavior>Edit</behavior>
                 <field>efgh__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Hello__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

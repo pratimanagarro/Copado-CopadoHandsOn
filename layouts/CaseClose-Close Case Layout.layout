@@ -25,6 +25,7 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>case2__c</field>
+                <field>conflictingCase__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>

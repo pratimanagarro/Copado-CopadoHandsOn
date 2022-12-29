@@ -112,11 +112,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Case123__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>case2__c</field>
+                <field>conflictingCase__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>
